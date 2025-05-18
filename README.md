@@ -13,4 +13,4 @@ This is a travel platform clone inspired by TripAdvisor. It allows users to expl
 📌 Purpose
 This project is intended as a learning and demonstration tool to showcase how a travel and review platform works. It mirrors the core functionality of TripAdvisor in a simplified form.
 
-Github Link:https://rajesh2304-ri.github.io/Tripadvisor_clone/
+Github Link: https://rajesh2304-ri.github.io/Tripadvisor_clone/
