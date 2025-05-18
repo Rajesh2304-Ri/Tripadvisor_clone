@@ -674,8 +674,6 @@ span {
     text-align: start;
 }
 
-
-
 @media (max-width:600px){
     .heading-section{
         display: none;
