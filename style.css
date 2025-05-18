@@ -21,7 +21,7 @@ body {
 }
 
 .header img {
-    width: 200px;
+    width: 32px;
 }
 
 
@@ -597,14 +597,5 @@ margin-top: 10px;
 }
 .dropdown_country option{
     text-align: start;
-}
-.footer-desc{
-    width: 50%;
-    margin-left:230px;
-    position: relative;
-    bottom: ;
-}
-.footer-desc p{
-    font-size: small;
 }
 
